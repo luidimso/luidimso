@@ -1,4 +1,4 @@
-### Olá :)
+### Hello :)
 
 I am a front-end programmer, working with Angular, but also with experience in back-end technologies like NodeJS and Java. I also work with mobile development with Ionic and now venturing with Flutter.
 
