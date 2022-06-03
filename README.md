@@ -6,7 +6,7 @@ I'm always looking to study new technologies or other things. Now I'm focusing o
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luidi-matheus-554552157/)
 
-[My top used programming languages](http://ionicabizau.github.io/github-profile-languages/?user=luidimso)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luidimso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **luidimso/luidimso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
