@@ -15,6 +15,7 @@ I'm always looking to study new technologies or other things. Now I'm focusing o
   <img align="center" alt="Typescript" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />      
   <img align="center" alt="Node" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="Node" height="40" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
+  <img align="center" alt="Node" height="25" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/512px-Ionic_Logo.svg.png?20180201214056">
 </div>
 <!--
 **luidimso/luidimso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
