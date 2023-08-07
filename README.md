@@ -6,7 +6,7 @@ I'm always looking to study new technologies or other things. Now I'm focusing o
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luidi-matheus-554552157/)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luidimso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luidimso&layout=compact)]
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
